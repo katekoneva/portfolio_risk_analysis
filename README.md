@@ -46,6 +46,20 @@ The equal-weight portfolio produced:
 The analysis found that highly correlated equity exposures such as QQQ and XLK provided relatively limited diversification, while GLD and IEF behaved more independently from equities.
 The equal-weight portfolio achieved a higher historical Sharpe ratio than any individual ETF in the sample, illustrating how diversification can improve risk-adjusted performance even without maximising raw return.
 
+## Visualisations
+
+### Asset Correlations
+
+![Correlation Matrix](figures/correlation_matrix.png)
+
+### Portfolio Performance
+
+![Cumulative Performance](figures/cumulative_performance.png)
+
+### Portfolio Drawdown
+
+![Drawdown](figures/drawdown.png)
+
 ## Tools
 
 - Python
