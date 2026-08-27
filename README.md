@@ -76,10 +76,11 @@ Results are based on historical data and should not be interpreted as forecasts.
 
 ## Repository Structure
 
+```text
 portfolio_risk_analysis/
-├── data/
 ├── figures/
 ├── portfolio_analysis.ipynb
 ├── requirements.txt
 ├── README.md
+├── .gitignore
 └── LICENSE
